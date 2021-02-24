@@ -3,18 +3,15 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*",
-        "servo": "*"
+        "servo": "*",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
-        "main.ts",
-        "README.md"
+        "main.py",
+        "main.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "supportedTargets": [
         "microbit"
     ],
